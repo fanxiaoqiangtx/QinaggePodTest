@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QinaggePodTest'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '测试 pod'
   s.description      = '测试 pod 哈哈'
 
