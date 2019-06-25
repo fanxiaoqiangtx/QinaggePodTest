@@ -1,0 +1,16 @@
+PODS:
+  - QinaggePodTest (0.1.0)
+
+DEPENDENCIES:
+  - QinaggePodTest (from `../`)
+
+EXTERNAL SOURCES:
+  QinaggePodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QinaggePodTest: c969e7abc4352c0bcc9eec7824b47a203b9c2e0e
+
+PODFILE CHECKSUM: d67450ece9547a845b50b07e14caac84d56e3e71
+
+COCOAPODS: 1.6.1

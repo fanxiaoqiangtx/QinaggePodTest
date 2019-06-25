@@ -1,0 +1,22 @@
+{
+  "name": "QinaggePodTest",
+  "version": "0.1.0",
+  "summary": "A short description of QinaggePodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fanxiaoqiangtx/QinaggePodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanxiaoqiangtx": "6399659@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fanxiaoqiangtx/QinaggePodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QinaggePodTest/Classes/**/*"
+}

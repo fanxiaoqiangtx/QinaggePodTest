@@ -1,0 +1,6 @@
+framework module QinaggePodTest {
+  umbrella header "QinaggePodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
